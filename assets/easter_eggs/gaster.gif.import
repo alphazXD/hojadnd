@@ -1,0 +1,16 @@
+[remap]
+
+importer="texture_gif"
+importer_version=2
+type="GIFTexture"
+uid="uid://dj4kp63po0q25"
+path="res://.godot/imported/gaster.gif-03d5f21000df18b287cec012c6b91188.res"
+
+[deps]
+
+source_file="res://assets/easter_eggs/gaster.gif"
+dest_files=["res://.godot/imported/gaster.gif-03d5f21000df18b287cec012c6b91188.res"]
+
+[params]
+
+storage/compress=true

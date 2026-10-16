@@ -1,0 +1,4 @@
+[gd_scene format=3 uid="uid://boe8en5wxbhg0"]
+
+[node name="OnlinePanel" type="PanelContainer" unique_id=1499878395]
+custom_minimum_size = Vector2(280, 320)

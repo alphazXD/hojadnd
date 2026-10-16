@@ -1,0 +1,42 @@
+[
+  {
+    "category": "Enemigo",
+    "image_data": "",
+    "image_format": "",
+    "monster_data": {
+      "monster_ac": "",
+      "monster_actions": "Mordisco",
+      "monster_cha": 10.0,
+      "monster_challenge": "",
+      "monster_con": 10.0,
+      "monster_condition_immunities": "",
+      "monster_description": "",
+      "monster_dex": 10.0,
+      "monster_hit_dice": "",
+      "monster_hp_current": "",
+      "monster_hp_max": "",
+      "monster_immunities": "",
+      "monster_initiative": "",
+      "monster_int": 10.0,
+      "monster_languages": "",
+      "monster_legendary_actions": "",
+      "monster_lore": "Lore conservado",
+      "monster_name": "Bestia de prueba",
+      "monster_proficiency": "",
+      "monster_reactions": "",
+      "monster_resistances": "",
+      "monster_saves": "",
+      "monster_senses": "",
+      "monster_skills": "",
+      "monster_speed": "",
+      "monster_str": 27.0,
+      "monster_traits": "",
+      "monster_vulnerabilities": "",
+      "monster_wis": 10.0
+    },
+    "name": "Bestia de prueba",
+    "notes": "Lore conservado",
+    "source": "",
+    "updated_at": "2026-09-10T22:19:57"
+  }
+]

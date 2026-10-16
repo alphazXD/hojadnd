@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://ui/InitiativeTracker.gd" id="1_initiative"]
+
+[node name="InitiativeTracker" type="PanelContainer"]
+custom_minimum_size = Vector2(280, 340)
+script = ExtResource("1_initiative")

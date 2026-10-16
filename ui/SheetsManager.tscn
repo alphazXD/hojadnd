@@ -1,0 +1,4 @@
+[gd_scene format=3 uid="uid://3adpqiibkr22"]
+
+[node name="SheetsManager" type="PanelContainer" unique_id=114306749]
+custom_minimum_size = Vector2(280, 360)

@@ -1,0 +1,4 @@
+[gd_scene format=3 uid="uid://bff8m3kmstfcm"]
+
+[node name="TokenSheetWindow" type="PanelContainer" unique_id=2015396163]
+custom_minimum_size = Vector2(280, 380)

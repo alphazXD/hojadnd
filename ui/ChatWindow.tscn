@@ -1,0 +1,4 @@
+[gd_scene format=3 uid="uid://30rpmsliiwyr"]
+
+[node name="ChatWindow" type="PanelContainer" unique_id=1531517447]
+custom_minimum_size = Vector2(280, 320)

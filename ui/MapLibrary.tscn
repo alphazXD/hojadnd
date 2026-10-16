@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://8ov48eu0c520"]
+
+[ext_resource type="Script" path="res://ui/MapLibrary.gd" id="1_map_library"]
+
+[node name="MapLibrary" type="PanelContainer" unique_id=1743961183]
+custom_minimum_size = Vector2(280, 340)
+script = ExtResource("1_map_library")

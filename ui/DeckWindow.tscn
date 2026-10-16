@@ -1,0 +1,4 @@
+[gd_scene format=3 uid="uid://byiy8km68avcn"]
+
+[node name="DeckWindow" type="PanelContainer" unique_id=12909695]
+custom_minimum_size = Vector2(300, 420)

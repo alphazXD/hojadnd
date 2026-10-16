@@ -1,0 +1,4 @@
+[gd_scene format=3 uid="uid://cum5fnqxqhdl1"]
+
+[node name="MusicLibrary" type="PanelContainer" unique_id=1509996506]
+custom_minimum_size = Vector2(280, 340)

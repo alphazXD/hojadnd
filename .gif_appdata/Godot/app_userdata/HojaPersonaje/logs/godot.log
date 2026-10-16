@@ -1,0 +1,70 @@
+Godot Engine v4.6.2.stable.official.71f334935 - https://godotengine.org
+
+GIFTexture exists: true
+GIFPlayer exists: true
+CLASS GIFTexture
+METHOD load_from_file
+METHOD load_from_buffer
+METHOD set_data
+METHOD get_data
+METHOD set_metadata_size
+METHOD get_metadata_size
+METHOD set_metadata_frame_count
+METHOD get_metadata_frame_count
+METHOD set_metadata_frame_delays
+METHOD get_metadata_frame_delays
+METHOD set_metadata_loop_count
+METHOD get_metadata_loop_count
+METHOD set_frame
+METHOD get_frame
+METHOD get_frame_count
+METHOD get_frame_texture
+METHOD get_current_texture
+METHOD get_frame_delay
+METHOD get_total_duration
+METHOD get_loop_count
+PROPERTY data type=29
+PROPERTY metadata/size type=6
+PROPERTY metadata/frame_count type=2
+PROPERTY metadata/frame_delays type=32
+PROPERTY metadata/loop_count type=2
+PROPERTY frame type=2
+CLASS GIFPlayer
+METHOD set_gif
+METHOD get_gif
+METHOD play
+METHOD set_playing
+METHOD is_playing
+METHOD set_paused
+METHOD is_paused
+METHOD stop
+METHOD set_frame
+METHOD get_frame
+METHOD get_frame_count
+METHOD set_play_mode
+METHOD get_play_mode
+METHOD set_speed_scale
+METHOD get_speed_scale
+METHOD set_loop_count
+METHOD get_loop_count
+METHOD set_expand_mode
+METHOD get_expand_mode
+METHOD set_stretch_mode
+METHOD get_stretch_mode
+METHOD set_flip_h
+METHOD is_flipped_h
+METHOD set_flip_v
+METHOD is_flipped_v
+PROPERTY gif type=24
+PROPERTY playing type=1
+PROPERTY paused type=1
+PROPERTY play_mode type=2
+PROPERTY speed_scale type=3
+PROPERTY loop_count type=2
+PROPERTY expand_mode type=2
+PROPERTY stretch_mode type=2
+PROPERTY flip_h type=1
+PROPERTY flip_v type=1
+FRAMES 12 DELAY0 0.05000000074506 TOTAL 0.6000000834465
+ERROR: Failed to read the root certificate store.
+   at: get_system_ca_certificates (platform/windows/os_windows.cpp:2570)
